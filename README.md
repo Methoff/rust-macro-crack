@@ -1,1 +1,2 @@
-# rust-macro-crack
+rust macro crack
+собрал все макросы на раст, олд рекоил
